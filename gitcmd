@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "43강까지"
+git remote add origin https://github.com/gajayahoo/Springboot-JPA-Blog.git
+git push origin master
